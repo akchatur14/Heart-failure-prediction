@@ -1,0 +1,90 @@
+Country,Diet_type,Workout_routine,Suffered_with_covid,Age,Cardiac_arrest,Survived
+India,High fiber,Yes,Yes,34,No,Yes
+India,High fiber,Yes,Yes,22,Yes,Yes
+India,Fatty,Yes,Yes,25,Yes,Yes
+India,Fatty,No,Yes,32,Yes,No
+USA,Bakery,Yes,Yes,21,Yes,No
+USA,Bakery,Yes,Yes,19,No,Yes
+USA,Protein,Yes,Yes,35,No,Yes
+India,Mixed,No,Yes,87,Yes,No
+India,Mixed,Yes,No,65,No,Yes
+USA,Mixed,Yes,No,40,No,Yes
+USA,Mixed,Yes,No,60,Yes,No
+India,Mixed,No,No,64,No,Yes
+USA,Mixed,No,No,25,No,Yes
+USA,Fatty,No,No,35,Yes,No
+USA,Fatty,No,No,43,Yes,Yes
+USA,Fatty,No,Yes,51,Yes,No
+USA,High fiber,No,Yes,24,Yes,No
+USA,High fiber,No,Yes,18,No,Yes
+USA,High fiber,No,Yes,29,No,Yes
+USA,High fiber,No,Yes,26,Yes,No
+USA,High fiber,No,Yes,32,No,Yes
+India,High fiber,Yes,Yes,45,No,Yes
+India,High fiber,Yes,Yes,43,Yes,Yes
+India,Mixed,No,Yes,34,Yes,No
+India,Mixed,No,Yes,39,Yes,No
+USA,Mixed,No,Yes,42,Yes,No
+India,Mixed,No,Yes,50,Yes,No
+India,Mixed,No,Yes,32,No,Yes
+India,Mixed,Yes,Yes,23,Yes,Yes
+USA,Mixed,No,Yes,47,Yes,No
+USA,Protein,No,No,50,No,Yes
+USA,Protein,No,No,45,No,Yes
+USA,Protein,No,No,35,No,Yes
+India,Bakery,No,Yes,24,Yes,No
+USA,Bakery,No,Yes,22,Yes,Yes
+India,Bakery,No,Yes,32,Yes,Yes
+USA,Bakery,Yes,Yes,21,Yes,No
+India,Protein,Yes,Yes,37,No,Yes
+India,Protein,Yes,Yes,36,No,Yes
+India,Fatty,No,Yes,43,Yes,Yes
+USA,Bakery,No,Yes,20,Yes,No
+USA,Bakery,Yes,Yes,28,No,Yes
+USA,Bakery,No,Yes,36,No,Yes
+India,Fatty,No,Yes,23,Yes,No
+India,Fatty,No,Yes,22,No,Yes
+USA,Fatty,Yes,Yes,40,Yes,No
+USA,Fatty,Yes,Yes,35,Yes,No
+USA,Mixed,Yes,Yes,33,No,Yes
+USA,Mixed,Yes,Yes,60,Yes,No
+USA,Mixed,No,No,75,Yes,Yes
+USA,Mixed,No,No,82,Yes,No
+USA,Mixed,No,No,85,No,Yes
+India,Mixed,Yes,No,34,No,Yes
+India,Mixed,Yes,Yes,54,Yes,Yes
+India,Mixed,Yes,Yes,56,Yes,No
+India,Mixed,No,Yes,22,Yes,No
+USA,High fiber,No,Yes,79,Yes,No
+USA,High fiber,No,Yes,63,Yes,No
+USA,High fiber,No,Yes,54,Yes,No
+India,High fiber,Yes,Yes,32,No,Yes
+India,High fiber,Yes,Yes,34,No,Yes
+India,High fiber,Yes,Yes,45,Yes,No
+USA,Protein,No,Yes,55,Yes,Yes
+USA,Protein,No,Yes,52,Yes,No
+USA,High fiber,No,Yes,24,No,Yes
+USA,High fiber,No,Yes,27,Yes,Yes
+USA,Bakery,No,Yes,28,No,Yes
+USA,Bakery,No,No,40,Yes,No
+India,Fatty,No,No,35,No,Yes
+India,Fatty,Yes,No,30,No,Yes
+India,Fatty,Yes,No,40,Yes,No
+India,Fatty,Yes,No,45,No,Yes
+India,Fatty,No,No,37,No,Yes
+India,Fatty,No,No,60,Yes,Yes
+India,Mixed,No,No,27,No,Yes
+India,Mixed,Yes,No,26,No,Yes
+India,Mixed,No,No,29,No,Yes
+India,Mixed,Yes,No,30,No,Yes
+USA,Fatty,No,Yes,32,Yes,No
+USA,Fatty,No,Yes,33,Yes,No
+USA,Fatty,Yes,Yes,34,No,Yes
+India,Fatty,No,Yes,79,Yes,No
+India,Fatty,Yes,Yes,77,Yes,No
+India,Bakery,No,Yes,30,No,Yes
+India,Bakery,No,Yes,21,No,Yes
+India,Bakery,Yes,Yes,22,Yes,No
+USA,Bakery,Yes,Yes,43,Yes,Yes
+USA,Bakery,Yes,Yes,33,Yes,No
+USA,Bakery,Yes,Yes,26,No,Yes
